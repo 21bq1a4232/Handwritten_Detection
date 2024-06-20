@@ -1,0 +1,108 @@
+[1/100000] Train loss: 0.22388, Valid loss: 0.40409, Elapsed_time: 14.60985
+Current_accuracy : 86.510, Current_norm_ED  : 0.07
+Best_accuracy    : 86.510, Best_norm_ED     : 0.07
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+to                        | to                        | 0.9902	True
+are                       | are                       | 0.9999	True
+p.                        | p.                        | 0.7175	True
+.                         | .                         | 0.9981	True
+yourself                  | yourself                  | 0.9968	True
+--------------------------------------------------------------------------------
+[201/100000] Train loss: 0.12282, Valid loss: 0.30464, Elapsed_time: 4442.96738
+Current_accuracy : 89.070, Current_norm_ED  : 0.06
+Best_accuracy    : 89.070, Best_norm_ED     : 0.07
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+and                       | and                       | 0.9934	True
+in                        | in                        | 0.9975	True
+each                      | neach                     | 0.6962	False
+)                         | )                         | 0.8639	True
+into                      | into                      | 0.9900	True
+--------------------------------------------------------------------------------
+[402/100000] Train loss: 0.08341, Valid loss: 0.30967, Elapsed_time: 7340.09478
+Current_accuracy : 88.950, Current_norm_ED  : 0.06
+Best_accuracy    : 89.070, Best_norm_ED     : 0.07
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+.                         | .                         | 0.8556	True
+is                        | is                        | 0.4807	True
+would                     | would                     | 0.9991	True
+so                        | so                        | 0.9570	True
+possessions               | possessions               | 0.9855	True
+--------------------------------------------------------------------------------
+[603/100000] Train loss: 0.06254, Valid loss: 0.30444, Elapsed_time: 10219.54632
+Current_accuracy : 88.916, Current_norm_ED  : 0.06
+Best_accuracy    : 89.070, Best_norm_ED     : 0.07
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+game                      | gries                     | 0.0604	False
+needed                    | needed                    | 0.3461	True
+1                         | I                         | 0.3962	False
+true                      | true                      | 0.9175	True
+most                      | most                      | 0.9972	True
+--------------------------------------------------------------------------------
+[804/100000] Train loss: 0.04884, Valid loss: 0.31032, Elapsed_time: 13102.36427
+Current_accuracy : 89.156, Current_norm_ED  : 0.06
+Best_accuracy    : 89.156, Best_norm_ED     : 0.07
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Again                     | Again                     | 0.9947	True
+soldering                 | soldering                 | 0.9954	True
+quite                     | quite                     | 0.9976	True
+the                       | the                       | 0.9993	True
+two                       | two                       | 0.9982	True
+--------------------------------------------------------------------------------
+[1005/100000] Train loss: 0.03848, Valid loss: 0.32243, Elapsed_time: 15999.58224
+Current_accuracy : 88.623, Current_norm_ED  : 0.06
+Best_accuracy    : 89.156, Best_norm_ED     : 0.07
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+be                        | be                        | 0.9805	True
+may                       | may                       | 0.9981	True
+it                        | it                        | 0.9997	True
+clean                     | clean                     | 0.9904	True
+stop                      | stop                      | 0.9802	True
+--------------------------------------------------------------------------------
+[1206/100000] Train loss: 0.03089, Valid loss: 0.34715, Elapsed_time: 18891.87764
+Current_accuracy : 88.297, Current_norm_ED  : 0.06
+Best_accuracy    : 89.156, Best_norm_ED     : 0.07
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+it                        | it                        | 0.9560	True
+first                     | fiss                      | 0.2905	False
+)                         | (                         | 0.3627	False
+better                    | better                    | 0.9935	True
+,                         | ,                         | 0.9865	True
+--------------------------------------------------------------------------------
+[1407/100000] Train loss: 0.02402, Valid loss: 0.34736, Elapsed_time: 21795.39734
+Current_accuracy : 88.314, Current_norm_ED  : 0.06
+Best_accuracy    : 89.156, Best_norm_ED     : 0.07
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+not                       | not                       | 0.9932	True
+and                       | and                       | 0.9985	True
+plan                      | plan                      | 0.9904	True
+up                        | up                        | 0.9986	True
+the                       | the                       | 0.9998	True
+--------------------------------------------------------------------------------
+[1608/100000] Train loss: 0.01983, Valid loss: 0.36404, Elapsed_time: 24705.63088
+Current_accuracy : 87.541, Current_norm_ED  : 0.06
+Best_accuracy    : 89.156, Best_norm_ED     : 0.07
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+inside                    | inside                    | 0.9183	True
+given                     | given                     | 0.9987	True
+you                       | you                       | 0.9898	True
+working                   | working                   | 0.7385	True
+far                       | far                       | 0.9963	True
+--------------------------------------------------------------------------------

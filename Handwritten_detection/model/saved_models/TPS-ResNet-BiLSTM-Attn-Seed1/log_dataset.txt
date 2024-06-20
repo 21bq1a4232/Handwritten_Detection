@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+dataset_root: result/train
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    result/train	 dataset: /
+sub-directory:	/.	 num samples: 38709
+num total samples of /: 38709 x 1.0 (total_data_usage_ratio) = 38709
+num samples of / per batch: 192 x 1.0 (batch_ratio) = 192
+--------------------------------------------------------------------------------
+Total_batch_size: 192 = 192
+--------------------------------------------------------------------------------
+dataset_root:    result/test	 dataset: /
+sub-directory:	/.	 num samples: 5819
+--------------------------------------------------------------------------------

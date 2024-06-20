@@ -1,0 +1,16 @@
+Number of training samples: 38709
+Number of epochs: 497, iter per epoch: 201
+
+Iter: [1/100000]. Epoch: [0/497]. Training loss: 0.223883718252182. Current score: -0.4040912687778473. Best score: -0.4040912687778473. Counter: [0/5]
+Validation loss decreased (inf --> 0.404091).  Saving model ...
+Iter: [201/100000]. Epoch: [1/497]. Training loss: 0.12281649559736252. Current score: -0.30463528633117676. Best score: -0.30463528633117676. Counter: [0/5]
+Validation loss decreased (0.404091 --> 0.304635).  Saving model ...
+Iter: [402/100000]. Epoch: [2/497]. Training loss: 0.08340874314308167. Current score: -0.3096711039543152. Best score: -0.30463528633117676. Counter: [1/5]
+Iter: [603/100000]. Epoch: [3/497]. Training loss: 0.06253901869058609. Current score: -0.30444079637527466. Best score: -0.30444079637527466. Counter: [0/5]
+Validation loss decreased (0.304635 --> 0.304441).  Saving model ...
+Iter: [804/100000]. Epoch: [4/497]. Training loss: 0.04883535951375961. Current score: -0.3103177845478058. Best score: -0.30444079637527466. Counter: [1/5]
+Iter: [1005/100000]. Epoch: [5/497]. Training loss: 0.0384819358587265. Current score: -0.3224289119243622. Best score: -0.30444079637527466. Counter: [2/5]
+Iter: [1206/100000]. Epoch: [6/497]. Training loss: 0.030888164415955544. Current score: -0.3471502363681793. Best score: -0.30444079637527466. Counter: [3/5]
+Iter: [1407/100000]. Epoch: [7/497]. Training loss: 0.024022648110985756. Current score: -0.3473559021949768. Best score: -0.30444079637527466. Counter: [4/5]
+Iter: [1608/100000]. Epoch: [8/497]. Training loss: 0.01982731930911541. Current score: -0.3640381395816803. Best score: -0.30444079637527466. Counter: [5/5]
+Early stopping

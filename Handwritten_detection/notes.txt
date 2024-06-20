@@ -1,0 +1,10 @@
+python train.py --train_data result/train --valid_data result/test --select_data "/"  --batch_ratio 1 --workers 0 --FT --manualSeed 1 --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --saved_model saved_models/AttentionHTR-General-sensitive.pth --sensitive
+
+python create_lmdb_dataset.py --inputPath ../dataset-demo/ --gtFile ../dataset-demo/gt.txt --outputPath result/dataset-demo/
+
+python test.py --eval_data result/dataset-demo --workers 0 --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --saved_model saved_models/TPS-ResNet-BiLSTM-Attn-Seed1/best_accuracy.pth --sensitive
+
+
+
+
+python demo.py --image_folder ../dataset-demo/demo --workers 0 --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn --saved_model saved_models/TPS-ResNet-BiLSTM-Attn-Seed1/best_accuracy.pth --sensitive
